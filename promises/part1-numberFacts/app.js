@@ -1,4 +1,4 @@
-let favNumber = 7;
+let favNumber = 11;
 let baseURL = "http://numbersapi.com";
 
 //  1). Make a request to the Numbers API (http://numbersapi.com/) to get a fact about your favorite number. 
